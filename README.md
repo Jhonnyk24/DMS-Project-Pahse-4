@@ -46,7 +46,7 @@ Allows users to **create, read, update, delete (CRUD)** movie records and calcul
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/moviedb-system.git
+   git (https://github.com/Jhonnyk24/DMS-Project-Pahse-4.git)
    cd moviedb-system
 Setup MySQL Database:
 
