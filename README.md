@@ -28,7 +28,7 @@ Allows users to **create, read, update, delete (CRUD)** movie records and calcul
 | Remove Data | ✅ Passed |
 | Update Data | ✅ Passed |
 | Custom Feature (Scariness Score) | ✅ Passed |
-| Code Commenting & Documentation | ⚡ Partially Accomplished |
+| Code Commenting & Documentation | ✅ Passed |
 
 ---
 
@@ -47,10 +47,9 @@ Allows users to **create, read, update, delete (CRUD)** movie records and calcul
    ```bash
    git (https://github.com/Jhonnyk24/DMS-Project-Pahse-4.git)
    cd moviedb-system
+   
 Setup MySQL Database:
 
-sql
-Copiar código
 CREATE DATABASE moviesdb;
 USE moviesdb;
 
