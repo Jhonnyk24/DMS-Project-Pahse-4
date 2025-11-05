@@ -13,8 +13,7 @@ Allows users to **create, read, update, delete (CRUD)** movie records and calcul
   - Display all movies in a table.  
 - **Custom Feature:** Calculates a "scariness score" for each movie based on rating, votes, runtime, and whether it has been watched.  
 - **Database Integration:** Connects to MySQL for persistent storage.  
-- **Error Handling:** All user inputs are validated; program cannot crash due to bad inputs.  
-- **CSV Upload (Optional):** Batch import movies from a CSV file.  
+- **Error Handling:** All user inputs are validated; program cannot crash due to bad inputs.   
 
 ---
 
